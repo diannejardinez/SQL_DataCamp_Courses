@@ -1,0 +1,2 @@
+-- Basic Correlated Subqueries
+-- 01. examine matches with scores that are extreme outliers for each country -- above 3 times the average score
